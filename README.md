@@ -4,6 +4,8 @@
 
 A magical, interactive, claymorphic space-themed proposal web application. This template is designed as an out-of-this-world way to pop the question, or simply to create a beautiful, engaging interactive card! 
 
+## Hosted URL : https://astroid-page-b7so.vercel.app/
+
 ## ✨ Features
 
 - **Interactive Animations:** A stunning sequence where a falling asteroid cracks open to reveal a hidden ring box.
