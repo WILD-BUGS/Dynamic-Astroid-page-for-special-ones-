@@ -1,6 +1,6 @@
 # 🎁 Asteroid Proposal Template
 
-![Cover Picture](./coverpic.png)
+![Cover Picture](./cover.png)
 
 A magical, interactive, claymorphic space-themed proposal web application. This template is designed as an out-of-this-world way to pop the question, or simply to create a beautiful, engaging interactive card! 
 
