@@ -1,6 +1,7 @@
 # 🎁 Asteroid Proposal Template
-
-![Cover Picture](./cover.png)
+<p align="center">
+  <img src="./cover.png" alt="Dynamic-Astroid-page-for-special-ones" width="100%" />
+</p>
 
 A magical, interactive, claymorphic space-themed proposal web application. This template is designed as an out-of-this-world way to pop the question, or simply to create a beautiful, engaging interactive card! 
 
